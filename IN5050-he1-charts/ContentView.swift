@@ -17,7 +17,7 @@ struct Constants {
 
 struct ContentView: View {
     var body: some View {
-        SpeedupGraph()
+        MEGraph()
     }
 }
 
